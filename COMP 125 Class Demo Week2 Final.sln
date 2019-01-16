@@ -5,6 +5,14 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP 125 Class Demo Week2 Final", "COMP 125 Class Demo Week2 Final\COMP 125 Class Demo Week2 Final.csproj", "{FF8578B3-3820-4E4B-A182-50468B73A5EF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "COMP 125 MENU LIST", "COMP 125 MENU LIST", "{B5AF08E6-39EE-4812-B688-E7E38A90EA8F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\COMP125 new\Solution Files\Chapter02_Solutions\HandsOnProject2-4\index.htm = ..\..\COMP125 new\Solution Files\Chapter02_Solutions\HandsOnProject2-4\index.htm
+		..\WEEK2 CHAPTERS\Lunch.js = ..\WEEK2 CHAPTERS\Lunch.js
+		..\..\COMP125 new\Solution Files\Chapter02_Solutions\HandsOnProject2-4\modernizr.custom.05819.js = ..\..\COMP125 new\Solution Files\Chapter02_Solutions\HandsOnProject2-4\modernizr.custom.05819.js
+		..\..\COMP125 new\Solution Files\Chapter02_Solutions\HandsOnProject2-4\styles.css = ..\..\COMP125 new\Solution Files\Chapter02_Solutions\HandsOnProject2-4\styles.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
